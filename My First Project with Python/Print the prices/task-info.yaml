@@ -76,5 +76,8 @@ files:
       if __name__ == '__main__':    PrintFirstProject().run_tests()
     learner_created: false
 feedback_link: https://hyperskill.org/projects/343/stages/2017/implement#comment
-status: Unchecked
-record: -1
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 05 Jan 2025 22:20:17 UTC"
+record: 1
