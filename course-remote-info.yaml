@@ -1,0 +1,36 @@
+hyperskill_project:
+  id: 343
+  ide_files: https://cogniterra.org/media/attachments/lesson/27688/additional_files.json
+  is_template_based: false
+  use_ide: true
+update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+stages:
+  - id: 2017
+    step: 28246
+    is_completed: false
+  - id: 2018
+    step: 28247
+    is_completed: false
+  - id: 2019
+    step: 28248
+    is_completed: false
+topics:
+  0:
+    - title: Introduction to Python
+      theory_id: 47352
+    - title: Multi-line programs
+      theory_id: 47555
+  1:
+    - title: Basic data types
+      theory_id: 47516
+    - title: Variables
+      theory_id: 47536
+    - title: "Integer arithmetic: basic operations"
+      theory_id: 47564
+  2:
+    - title: Taking user's input
+      theory_id: 47680
+    - title: Program with numbers
+      theory_id: 47734
+    - title: Sep and end arguments of print
+      theory_id: 7452
